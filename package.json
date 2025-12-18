@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "DUHIGURE project using Express and SQLite3",
   "license": "ISC",
-  "author": "Ruganzu Technologies <info@ruganzu.com>",
+  "author": "MANIRIHO Chance <chancemaniriho@gmail.com>",
   "type": "module",
   "main": "server.js",
   "scripts": {
